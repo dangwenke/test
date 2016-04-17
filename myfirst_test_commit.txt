@@ -1,0 +1,5 @@
+可以现在这里添加一个文件，然后git add . 
+再然后，git commit -m "commit log"
+
+再 git push -u origin master
+输入账号和密码就可以了
